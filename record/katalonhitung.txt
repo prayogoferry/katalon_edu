@@ -1,0 +1,10 @@
+scenario :
+1. open app
+2. tap button 9
+3. tap button point
+4. tap button 3
+5. tap button plush
+6. tap button 5
+7. tap button times
+8. tap button 3
+9. tap button equal
