@@ -1,0 +1,6 @@
+scenario:
+1. open app
+2. tap produk item
+3. choose product color
+4. tap number product
+5. tap add to cart

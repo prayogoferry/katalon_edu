@@ -27,3 +27,5 @@ Mobile.tap(findTestObject('calculator/DarkTheme_radio'), 0)
 
 Mobile.tap(findTestObject('calculator/OK_button'), 0)
 
+Mobile.closeApplication()
+

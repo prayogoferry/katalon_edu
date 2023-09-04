@@ -1,0 +1,6 @@
+Scenario: 
+1. open App
+2. tap burger 
+3. tap login button
+4. type username (bob@example.com)
+5. type password (10203040)

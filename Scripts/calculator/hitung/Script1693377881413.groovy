@@ -35,3 +35,5 @@ Mobile.tap(findTestObject('calculator/hitung/Button - 3'), 0)
 
 Mobile.tap(findTestObject('calculator/hitung/Button - equal'), 0)
 
+Mobile.closeApplication()
+
